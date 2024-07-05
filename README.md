@@ -32,6 +32,7 @@
 	<td align="center">4</td>
     <td align="center">Print factorial of a number</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/printFcatorial.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/print_factorial_of_a_number.py">Answer</a></td>
   <!--question number 5-->
   </tr>
 	<td align="center">5</td>
