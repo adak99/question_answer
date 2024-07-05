@@ -19,6 +19,7 @@
    <td align="center">2</td>
     <td align="center">While loop</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/while_loop.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/while_loop.py">Answer</a></td>
   </tr>
 	<!--question number 3-->
 	<tr>
@@ -133,7 +134,13 @@
     <td align="center">Advance pattern printing 7</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_16.java">Answer</a></td>
   </tr>
-
+   <!--question number 22-->
+  </tr>
+	<td align="center">22</td>
+    <td align="center">Practice question</td>
+    <td align="center"><a href="">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/practice%20question.py">Answer</a></td>
+  </tr>
    <!--$$$$$$-->
   <tr>
 	<td align="center">$</td>
