@@ -38,6 +38,7 @@
 	<td align="center">5</td>
     <td align="center">Print fibonacci series of a number</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/printFibo.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/print_fibo.py">Answer</a></td>
   </tr>
    <!--question number 6-->
   </tr>
