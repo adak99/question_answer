@@ -45,6 +45,7 @@
 	<td align="center">6</td>
     <td align="center">Print solid rectangle</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_1.java">Answer</a></td>
+     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_1.py">Answer</a></td>
   </tr>
     <!--question number 7-->
   </tr>
