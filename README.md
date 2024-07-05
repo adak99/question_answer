@@ -64,33 +64,37 @@
     <!--question number 9-->
   </tr>
 	<td align="center">9</td>
-    <td align="center">Print inverted half pyramid</td>
+    <td align="center">Basic pattern printing 1</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_4.java">Answer</a></td>
     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_4.py">Answer</a></td>
   </tr>
    <!--question number 10-->
   </tr>
 	<td align="center">10</td>
-    <td align="center">Print inverted & rotated half pyramid</td>
+    <td align="center">Basic pattern printing 2</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_5.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_5.py">Answer</a></td>
   </tr>
    <!--question number 11-->
   </tr>
 	<td align="center">11</td>
     <td align="center">Print half pyramid with numbers</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_6.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_6.py">Answer</a></td>
   </tr>
    <!--question number 12-->
   </tr>
 	<td align="center">12</td>
     <td align="center">Print inverted half pyramid with numbers</td>
-    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_6.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_7.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_7.py">Answer</a></td>
   </tr>
    <!--question number 13-->
   </tr>
 	<td align="center">13</td>
     <td align="center">Print floyd's triangle</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_8.java">Answer</a></td>
+<td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_8.py">Answer</a></td>
   </tr>   
   <!--question number 14-->
   </tr>
