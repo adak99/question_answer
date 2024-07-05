@@ -52,18 +52,21 @@
 	<td align="center">7</td>
     <td align="center">Print hollow rectangle</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_2.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_2.py">Answer</a></td>
   </tr>
     <!--question number 8-->
   </tr>
 	<td align="center">8</td>
     <td align="center">Print half pyramid</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_3.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_3.py">Answer</a></td>
   </tr>
     <!--question number 9-->
   </tr>
 	<td align="center">9</td>
     <td align="center">Print inverted half pyramid</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_4.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_4.py">Answer</a></td>
   </tr>
    <!--question number 10-->
   </tr>
