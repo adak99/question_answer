@@ -145,7 +145,7 @@
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_15.java">Answer</a></td>
     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_15.py">Answer</a></td>
   </tr>
-    <!--question number 21-->
+    <!--question number  21-->
   </tr>
 	<td align="center">21</td>
     <td align="center">Advance pattern printing 7</td>
