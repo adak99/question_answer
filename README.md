@@ -210,6 +210,7 @@
 	<td align="center">6</td>
     <td align="center">Find both the array element equl or not</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/checkArrayElementEqualOrNot.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/array_equals.py">Answer</a></td>
   </tr>
     <!--question number 7-->
   </tr>
