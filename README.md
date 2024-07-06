@@ -198,6 +198,7 @@
 	<td align="center">4</td>
     <td align="center">Liner serach in array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/linerSearchArray.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/liner_search.py">Answer</a></td>
   <!--question number 5-->
   </tr>
 	<td align="center">5</td>
