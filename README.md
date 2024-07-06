@@ -129,12 +129,14 @@
 	<td align="center">18</td>
     <td align="center">Advance pattern Printing 4</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_13.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_13.py">Answer</a></td>
   </tr>
       <!--question number 19-->
   </tr>
 	<td align="center">19</td>
     <td align="center">Advance pattern printing 5</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_14.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_14.py">Answer</a></td>
   </tr>
       <!--question number 20-->
   </tr>
