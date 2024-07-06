@@ -101,6 +101,7 @@
 	<td align="center">14</td>
     <td align="center">Print triangle combination of 0 and 1</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_9.java">Answer</a></td>
+	<td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_9.py">Answer</a></td>
   </tr>
   <!--question number 15-->
   </tr>
