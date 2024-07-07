@@ -235,19 +235,20 @@
 	<td align="center">10</td>
     <td align="center">Delet array element</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/deleteArrayElement.java">Answer</a></td>
-    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/Find_total_even_and_odd_num.py">Answer</a></td>
   </tr>
    <!--question number 11-->
   </tr>
 	<td align="center">11</td>
     <td align="center">Find total numbers of even and odd number in array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/evenOddNumArray.java">Answer</a></td>
+	<td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/Find_total_even_and_odd_num.py">Answer</a></td>
   </tr>
    <!--question number 12-->
   </tr>
 	<td align="center">12</td>
     <td align="center">Find most largest and most smallest number in array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/findArrayValue.java">Answer</a></td>
+    <td align="center"><a href="<td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/find_second_largest_value.py">Answer</a></td>">Answer</a></td>
   </tr>
    <!--question number 13-->
   </tr>
