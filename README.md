@@ -248,6 +248,7 @@
 	<td align="center">12</td>
     <td align="center">Find most largest and most smallest number in array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/findArrayValue.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/find_most_smallest_most_largest_number_in_array.py">Answer</a></td>
   </tr>
    <!--question number 13-->
   </tr>
