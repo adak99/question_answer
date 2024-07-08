@@ -248,13 +248,13 @@
 	<td align="center">12</td>
     <td align="center">Find most largest and most smallest number in array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/findArrayValue.java">Answer</a></td>
-    <td align="center"><a href="<td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/find_second_largest_value.py">Answer</a></td>">Answer</a></td>
   </tr>
    <!--question number 13-->
   </tr>
 	<td align="center">13</td>
     <td align="center">Find second largest value in the array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/findSecondLargestNum.java">Answer</a></td>
+	<td align="center"><a href="<td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/find_second_largest_value.py">Answer</a></td>">Answer</a></td>
   </tr>   
   <!--question number 14-->
   </tr>
