@@ -264,6 +264,7 @@
 	<td align="center">14</td>
     <td align="center">Liner search in 2D array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/TwoDarrayFindValue.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/Liner_search_2D_array.py">Answer</a></td>
   </tr>
    <!--question number 15-->
   </tr>
