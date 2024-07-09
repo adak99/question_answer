@@ -278,6 +278,7 @@
 	<td align="center">16</td>
     <td align="center">Print total numbers of odd and even numbers in 2D array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/printAllevenOddNumTwoDarray.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/Print_odd_even_number_2d_arr.py">Answer</a></td>
   </tr>
    <!--question number 17-->
   </tr>
