@@ -205,6 +205,7 @@
 	<td align="center">5</td>
     <td align="center">Find both the 2D array elements are equla or not</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/arrayEqual2Darray.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/find_both_2Darray_element_equal_or_not.py">Answer</a></td>
   </tr>
    <!--question number 6-->
   </tr>
