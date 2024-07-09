@@ -187,6 +187,7 @@
    <td align="center">2</td>
     <td align="center">Print 2D array</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/TwoDarray.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/print2DArray.py">Answer</a></td>
   </tr>
 	<!--question number 3-->
 	<td align="center">3</td>
