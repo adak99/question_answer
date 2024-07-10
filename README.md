@@ -299,6 +299,13 @@
     <td align="center">Find if an array is sorted or not</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/FindTheArraySortedOrNot.java">Answer</a></td>
   </tr>
+  <!--question number 20-->
+  </tr>
+	<td align="center">20</td>
+    <td align="center">Write a java program add tow matrix</td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/addTowMatrix.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/add_two_Matrix.py">Answer</a></td>
+  </tr>
 
   <!--$$$$$$-->
   <tr>
