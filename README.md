@@ -298,6 +298,7 @@
 	<td align="center">19</td>
     <td align="center">Find if an array is sorted or not</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/FindTheArraySortedOrNot.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/find_ir_array_sorted_or_not.py">Answer</a></td>
   </tr>
   <!--question number 20-->
   </tr>
