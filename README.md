@@ -323,6 +323,7 @@
     <td align="center">1</td>
     <td align="center">Print numbers of 5 to 1 using recursion</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion1.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/Print_numbers.py">Answer</a></td>
   </tr>
   <!--question number 2-->
   <tr>
