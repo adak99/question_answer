@@ -352,6 +352,7 @@
 	<td align="center">5</td>
     <td align="center">Print fibonacci series of n</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion5.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/print_fibonacci.py">Answer</a></td>
   </tr>
     <!--question number 6-->
 	<tr>
