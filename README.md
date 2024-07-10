@@ -344,6 +344,7 @@
 	<td align="center">4</td>
     <td align="center">Print factorila of n</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion4.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/print_factorial.py">Answer</a></td>
   </tr>
     <!--question number 5-->
 	<tr>
