@@ -338,6 +338,7 @@
 	<td align="center">3</td>
     <td align="center">Print sum of first natural numbers using recursion</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion3.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/print_sum_of_5_natural_numbers.py">Answer</a></td>
   </tr>
   <!--question number 4-->
   <tr>
