@@ -330,6 +330,7 @@
    <td align="center">2</td>
     <td align="center">Print numbers of 1 to 2 using recursion</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion2.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/print_1_to_5.py">Answer</a></td>
   </tr>
 	<!--question number 3-->
 	<tr>
