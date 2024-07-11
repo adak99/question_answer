@@ -307,6 +307,13 @@
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/addTowMatrix.java">Answer</a></td>
     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/add_two_Matrix.py">Answer</a></td>
   </tr>
+    <!--question number 21-->
+  </tr>
+	<td align="center">21</td>
+    <td align="center">Write a program to transpose a matrix</td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/transposeArray.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/transpose_array.py">Answer</a></td>
+  </tr>
 
   <!--$$$$$$-->
   <tr>
