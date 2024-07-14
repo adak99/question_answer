@@ -159,13 +159,6 @@
     <td align="center"><a href="">Answer</a></td>
     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/practice%20question.py">Answer</a></td>
   </tr>
-  <!--question number 23-->
-  </tr>
-	<td align="center">23</td>
-    <td align="center">Remove dulicate elements in array</td>
-    <td align="center"><a href="">Answer</a></td>
-    <td align="center"><a href="https://6693595b2cfa68ba21d8e479--snazzy-moonbeam-f2d4db.netlify.app/">Answer</a></td>
-  </tr>
    <!--$$$$$$-->
   <tr>
 	<td align="center">$</td>
@@ -327,6 +320,13 @@
     <td align="center">Print Boundary Elements of the Matrix</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/boundaryOfMatrix.java">Answer</a></td>
     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/print_boundary_of_matrix.py">Answer</a></td>
+  </tr>
+   <!--question number 23-->
+  </tr>
+	<td align="center">23</td>
+    <td align="center">Remove dulicate elements in array</td>
+    <td align="center"><a href="">Answer</a></td>
+    <td align="center"><a href="https://6693595b2cfa68ba21d8e479--snazzy-moonbeam-f2d4db.netlify.app/">Answer</a></td>
   </tr>
 
   <!--$$$$$$-->
