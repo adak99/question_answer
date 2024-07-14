@@ -321,6 +321,12 @@
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/boundaryOfMatrix.java">Answer</a></td>
     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/print_boundary_of_matrix.py">Answer</a></td>
   </tr>
+     <!--question number 22-->
+  </tr>
+	<td align="center">22</td>
+    <td align="center">Print Boundary Elements of the Matrix</td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/boundaryOfMatrix.java">Answer</a></td>
+  </tr>
 
   <!--$$$$$$-->
   <tr>
