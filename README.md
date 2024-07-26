@@ -387,6 +387,7 @@
 	<td align="center">6</td>
     <td align="center">Print x^n (stack height = n)</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion6.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/print_x%5En.py">Answer</a></td>
   </tr>
       <!--question number 7-->
 	<tr>
