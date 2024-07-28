@@ -408,6 +408,7 @@
 	<td align="center">9</td>
     <td align="center">Print a string in reverse</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion9.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/reverse_string.py">Answer</a></td>
   </tr>
   <!--question number 10-->
   <tr>
