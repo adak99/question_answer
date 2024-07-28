@@ -401,6 +401,7 @@
 	<td align="center">8</td>
     <td align="center">Tower of Hanoi **</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion8.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/Tower_of_hanoi.py">Answer</a></td>
   </tr>
    <!--question number 9-->
    <tr>
