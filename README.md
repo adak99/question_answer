@@ -429,6 +429,7 @@
 	<td align="center">12</td>
     <td align="center">Move all the X at last of the index</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion12.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/move_n_Value_at_last.py">Answer</a></td>
   </tr>
   <!--question number 13-->
   <tr>
