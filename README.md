@@ -422,6 +422,7 @@
 	<td align="center">11</td>
     <td align="center">Find a array shorted or not using recursion</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/Recursion11.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Recursion/find_list_is_sort_or_not.py">Answer</a></td>
   </tr>
   <!--question number 12-->
   <tr>
