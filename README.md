@@ -155,9 +155,9 @@
    <!--question number 22-->
   </tr>
 	<td align="center">22</td>
-    <td align="center">Practice question</td>
-    <td align="center"><a href="">Answer</a></td>
-    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/practice%20question.py">Answer</a></td>
+    <td align="center">Advance pattern printing 8</td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_17.java">Answer</a></td>
+    <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_17.py">Answer</a></td>
   </tr>
    <!--$$$$$$-->
   <tr>
