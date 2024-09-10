@@ -159,6 +159,13 @@
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/pattern_17.java">Answer</a></td>
     <td align="center"><a href="https://github.com/adak99/Python-programming/blob/main/Loops/pattern_17.py">Answer</a></td>
   </tr>
+   <!--question number 23-->
+  </tr>
+	<td align="center">23</td>
+    <td align="center">GCD</td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Loops%20and%20Pattern%20Printing/GCD.java">Answer</a></td>
+    <td align="center"><a href="#">Answer</a></td>
+  </tr>
    <!--$$$$$$-->
   <tr>
 	<td align="center">$</td>
@@ -476,10 +483,25 @@
 
   <!--praction_questions-->
   <tr>
-	<td align="center">$</td>
+	<td align="center">20</td>
     <td align="center">Move all the zeros at last of the index</td>
     <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/MoveAllZeroAtLastUseRecursion.java">Answer</a></td>
   </tr>
+  
+  <tr>
+	<td align="center">21</td>
+    <td align="center">Sum of non duplicate elements of the array</td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Array/sumOfNonDuplicateElementInArray.java">Answer</a></td>
+    <td align="center"><a href=https://github.com/adak99/Python-programming/blob/main/LIst%20%24%20Tuple/List/Practice%20Questions/sum_of_non_duplicate_elements_of_the_list.py">Answer</a></td>
+  </tr>
+
+  <tr>
+	<td align="center">23</td>
+    <td align="center">GCD</td>
+    <td align="center"><a href="https://github.com/adak99/JAVA-PROGRAMMING/blob/main/Recursion/GCD.java">Answer</a></td>
+    <td align="center"><a href="#">Answer</a></td>
+  </tr>
+  
   <!--$$$$$$-->
   <tr>
 	<td align="center">$</td>
